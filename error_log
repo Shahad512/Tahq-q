@@ -1,0 +1,1 @@
+[13-May-2022 12:06:48 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainesho/public_html/thaq/include/session.php on line 1
